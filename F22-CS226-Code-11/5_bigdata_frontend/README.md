@@ -2,14 +2,6 @@
 
 Install Node Packet Manager, React and Node 
 
-Install Project
-
-Go to the frontend directory
-
-```bash
-  cd frontend
-```
-
 Install dependencies
 
 ```bash
