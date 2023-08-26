@@ -1,7 +1,23 @@
-# TO RUN FOLLOW THE STEPS
+## Run Locally
 
-# 1. INSTALL NODE JS, REACT JS, NPM
+Install Node Packet Manager, React and Node 
 
-# 2. FROM THE FRONTEND FOLDER RUN NPM INSTALL 
+Install Project
 
-# 3. RUN NPM START
+Go to the frontend directory
+
+```bash
+  cd frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
