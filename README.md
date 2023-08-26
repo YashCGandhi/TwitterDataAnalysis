@@ -1,4 +1,12 @@
-# TwitterDataAnalysis
+# FIFA World Cup 2022 Tweets Analysis
+
+Welcome to the repository for the FIFA World Cup 2022 Tweets Analysis project. This project showcases the development of robust software designed to efficiently gather and analyze tweets pertinent to the FIFA World Cup 2022. Leveraging tools such as SNScrape for data collection and PySpark, Hadoop, and NLTK libraries for data preprocessing, this project offers insights into the world of sports analytics.
+
+The core of the project lies in the creation of an interactive data visualization dashboard. By utilizing JavaScript and ReactJs, coupled with RESTful APIs implemented using NodeJs, we've established a seamless platform for presenting and interpreting the results of our comprehensive analysis. Dive into the repository to explore the intersection of sports, data, and technology.
+##
+
+
+
 
 ![TwitterDataAnalysis pptx_page-0001](https://github.com/YashCGandhi/TwitterDataAnalysis/assets/35528420/c32eb848-401e-4a4a-919a-6816ce2cbacd)
 ![TwitterDataAnalysis pptx_page-0002](https://github.com/YashCGandhi/TwitterDataAnalysis/assets/35528420/fb3da934-d2ff-485c-bdcd-167a50c899ed)
